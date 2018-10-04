@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgustinaBarreca/csv-parser/issues"
   },
-  "homepage": "https://github.com/AgustinaBarreca/csv-parser#readme"
+  "homepage": "https://github.com/AgustinaBarreca/csv-parser#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
 }
